@@ -1,0 +1,45 @@
+tr.completed {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+a {
+  color: rgb(7, 8, 11);
+}
+a:hover {
+   color: rgb(70, 7, 10);
+   
+   
+
+
+   
+}
+background-red {
+  background-color: rgb(4, 0, 255);
+}
+
+.background-blue {
+  background-color: blue;
+}
+
+#navbar{
+  font-family:Arial, Helvetica, sans-serif;
+  background-color: azure;
+  padding-left: 25px;
+  padding-top: 2px;
+  padding-right: 25px;
+  padding-bottom: 2px;
+  clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+
+  /* border-radius: 10%; */
+  
+}
+
+
+#nav{
+  background-color:#8dc5c9 ;
+  
+}
+#bc{
+  background-color:white;
+}
+
